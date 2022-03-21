@@ -258,3 +258,11 @@ body {
     font-size: 14px;
     line-height: 21px;
 }
+
+.thirdSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+}
